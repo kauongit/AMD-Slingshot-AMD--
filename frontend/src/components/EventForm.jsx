@@ -245,5 +245,5 @@ const styles = {
     fontSize: '14px',
   },
 };
-
+{isLoading && <p>Generating assets...</p>}
 export default EventForm;
