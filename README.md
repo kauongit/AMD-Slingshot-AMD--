@@ -2,7 +2,7 @@
 
 # ♣️ClubOps AI - *"_One Prompt = Complete Event Management_"*
 
-Click here for 
+## Click here for
 ## [Live Demo](https://clubops-ai-vercel-o7dyd34ei-kauongits-projects.vercel.app/)   |   [Backend API](https://clubops-ai.onrender.com)
 
 
@@ -61,6 +61,7 @@ participation, and community building rather than logistics.
 ## Project Documentation
 Minutes of team discussions and planning meetings are available in the
 `docs/meetings/` directory.
+
 
 
 
