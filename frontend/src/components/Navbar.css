@@ -1,0 +1,17 @@
+.navbar {
+  width: 100%;
+  background: linear-gradient(90deg, #2563eb, #7c3aed);
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.navbar-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.navbar-subtitle {
+  font-size: 14px;
+  opacity: 0.9;
+}
