@@ -57,3 +57,9 @@ participation, and community building rather than logistics.
 ## Project Documentation
 Minutes of team discussions and planning meetings are available in the
 `docs/meetings/` directory.
+
+## Live Demo:
+https://clubops-ai.vercel.app
+
+## Backend API:
+https://clubops-ai.onrender.com
