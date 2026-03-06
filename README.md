@@ -59,7 +59,8 @@ Minutes of team discussions and planning meetings are available in the
 `docs/meetings/` directory.
 
 ## Live Demo:
-https://clubops-ai.vercel.app
+[https://clubops-ai.vercel.app](https://clubops-ai-vercel-o7dyd34ei-kauongits-projects.vercel.app/)
 
 ## Backend API:
 https://clubops-ai.onrender.com
+
